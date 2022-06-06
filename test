@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Дымоходы</title>
+    <link href="assets/style/main.css" rel="stylesheet">
+  </head>
+</html>
+<body>
+    <header>
+        <div class="navbar-menu">
+            <a href="Logo"><img src="images/Logo.png" alt=""></a>
+            <ul>
+              <ul class="nav justify-content-left">
+					<li><a href="/"><img src="images/Ellipse 4.png" alt=""></a></li>
+                    <li><a class="dropdown-item" href="#">каталог товаров</a></li>
+					<li><a class="dropdown-item" href="#">доставка и оплата</a></li>
+					<li><a class="dropdown-item" href="#">цены</a></li>
+                    <li><a class="dropdown-item" href="#">контакты</a></li>
+			</ul>
+			<ul class="nav justify-content-center">
+				<li><a href="/phonenumber/">+7 (812) 509 21 98</a></li>
+				<li><a href="/recall/">перезвоните мне</a></li>		
+			</ul>
+			<ul class="nav justify-content-center">
+			<a href="/"><img src="images/vk.png" alt=""></a>
+			<a href="/"><img src="images/telegram.png" alt=""></a>
+			<a href="/"><img src="images/insta.png" alt=""></a>
+			<a href="/"><img src="images/phone.png" alt=""></a>
+			</ul>
+            <ul class="nav justify-content-end">
+                <a href="/"><img src="images/search.png" alt=""></a>
+                <a href="/"><img src="images/heart.png" alt=""></a>
+                <a href="/"><img src="images/shopping-cart 1.png" alt=""></a>
+                </ul>  
+            </ul>
+            
+        </div>
+        </header>
+
+    <div class="wrapper container">
+        <h1>Монтаж дымоходов</h1>
+        <div class="submenu">
+            <a href="/"><p>Главная</p></a>
+            <a href="/"><img src="images/Vector.png" alt=""></a>
+            <a href="/"><p>Монтаж дымоходов</p></a>
+        </div>
+        <div class="description">
+            <p>B <span>Дымоход.ру </span> вам помогут как приобрести, так и установить дымоход любой конфигурации. В нашем монтажном отделе, состоящим из трёх бригад работают квалифицированные специалисты, которые ежегодно проходят курсы повышения квалификации. Все работы проводим качественно и аккуратно, в короткий срок и на совесть .</p>
+        </div>
+        <div class="advantages">
+            <div class="section"><h2>Lorem ipsum dolor sit amet <span>Lorem ipsum</span></h2>
+                <ul>
+                    <li><span>Доступные цены</span></li>
+                    <li> <span>Собственное производсвто Дымоходов</span></li>
+                    <li><span>Выполнение необходимых работ, связанных с установкой камина, печи, котла</span</li>
+                    <li><span>Гарантия (от трёх до десяти лет)</span> </li>
+                    <li><span>Работаем чисто, аккуратно, убираем за собой, не сквернословим</span> </li>
+                    <li> <span>Только русские квалифицированные специалисты</span></li>
+                </ul>
+            </div>    
+                <figure>
+                    <img src="images/Blob.png" alt="красивый дымоход">
+                    <figcaption>красивый дымоход</figcaption>
+                </figure>                  
+            
+        </div>
+        <div class="processing">
+            <h3>Процесс выполнения монтажа</h3>
+            <div class="section-step">
+                <ol>
+                    <li><span>Расчёт предварительной заявки</span></li>
+                    <li> <span>Замер объекта нашим инженером</span></li>
+                    <li><span>Составление Коммерческого предложения по изделиям дымохода и окончательной сметы на работы</span</li>
+                    </ol>
+                <ol start="4">
+                    <li><span>Изготовление Дымохода, покраска (если требуется)</span> </li>
+                    <li><span>Монтаж продукции, проверка и наладкапробный запуск системы и последующая эксплуатация</span> </li>
+                    <li> <span>Гарантийное обслуживание по соответствующем сроку</span></li>
+                </ol>
+            </div>
+        </div>
+        <article>
+            <h3>Почему Дымоход.ру?</h3>
+            <div class="description">
+                <p>В отличие от других производителей, мы ручаемся за качество продукции, т.к. все Дымоходы изготавливаются из качественной стали, проверенного теплоизолятора, по современной технологии плазменной сварки «встык»</p>
+            </div>
+            <div class="wrap">
+                <div class="card">
+                  <img src="images/garanty.png" alt="/">
+                <h4>Большой гарантийный срок</h4>
+                <ul>
+                    <li>Крепёж, стыковка элементов – <span>10 лет</span></li>
+                    <li>Сквозная коррозия труб – <span>5 лет</span></li>
+                    <li>Гидроизоляция – <span>3 года</span></li>
+                </ul>  
+                </div>
+                <div class="card">
+                    <img src="images/help.svg" alt="/">
+                  <h4>Помощь в покупке агрегата</h4>
+                  <ul>
+                      <p>(печи, камина, котла), а также качественной установке на объекте с последующим гарантийным сервисом</p>
+                  </ul>  
+                  </div>
+                  <div class="card">
+                    <img src="images/feedback.svg" alt="/">
+                  <h4>Реальные отзывы клиентов</h4>
+                  <ul>
+                      <p>Убедитесь в добросовестности исполнения, прочитав Отзывы клиентов в специальном разделе.</p>
+                  </ul>  
+                  </div>
+
+            </div>
+        </article>
+        <div class="cons-form">
+            <h2>необходима консультация?</h2>
+            <p>оставьте заявку или свяжитесь с нами в социальных сетях</p>
+            <ul class="nav justify-content-center">
+                <a href="/"><img src="images/vk.png" alt=""></a>
+                <a href="/"><img src="images/telegram.png" alt=""></a>
+                <a href="/"><img src="images/insta.png" alt=""></a>
+                <a href="/"><img src="images/phone.png" alt=""></a>
+                </ul>
+                <form class="decor">
+                    <div class="form-left-decoration"></div>
+                    <div class="form-right-decoration"></div>
+                    <div class="circle"></div>
+                    <div class="form-inner">
+                    <h3>Написать нам</h3>
+                    <input type="text" placeholder="Username">
+                    <input type="email" placeholder="Email">
+                    <textarea placeholder="Сообщение..." rows="3"></textarea>
+                    <input type="submit" value="Отправить">
+                    </div>
+                    </form>
+        </div>
+        <div class="section-video">
+            <h3>Видео об установке</h3>
+            <div class="description">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            </div>
+            <div class="video"><img src="images/video.jpg" alt="/">
+            </div>
+        </div>
+        <div class="gallery">
+            <h3>Фото выполненных работ</h3>
+            <div class="description">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            </div>
+        <div class="photo">
+            <img src="images/gallery.jpg" alt="/">
+            <img src="images/gallery.jpg" alt="/">
+            <img src="images/gallery.jpg" alt="/">
+            <img src="images/gallery.jpg" alt="/">
+            <img src="images/gallery.jpg" alt="/">
+            <img src="images/gallery.jpg" alt="/">
+            <img src="images/gallery.jpg" alt="/">
+            <img src="images/gallery.jpg" alt="/">
+        </div>
+        </div>
+    </div>
+    <footer>
+        <div id="footer">
+            <div id="twitter">
+                 <h3>КАТАЛОГ</h3>
+                <ul>
+                    <li>Дымоходы</li>
+                    <li>Дымососы</li>
+                    <li>Печи для дома</li>
+                    <li>Печи для бани</li>
+                    <li>Камины</li>
+                    <li>Силикат кальция</li>
+                    <li>Котлы</li>
+                    <li>Ещё</li>
+                </ul>   
+            </div>
+            <div id="sitemap">
+                <h3>ИНФОРМАЦИЯ</h3>
+                <ul class="nav justify-content-center">     
+                    <li>Каталог</li>
+                    <li>Дымососы</li>
+                    <li>Установка и монтаж</li>
+                    <li>Отзывы</li>
+                    <li>Ликвидация товара</li>
+                    <li>Полезное</li>
+                    <li>Контакты</li>
+                    <li>Оплата и доставка</li>
+                </ul>
+            </div>
+            <div id="social">
+                 <h3>ВРЕМЯ РАБОТЫ</h3>
+                <p>пн-пт 9:00 – 20:00 сб-вс 10:00 – 18:00 <br>г. Санкт - Петербург ,ул. Тамбасова д.7</p>
+                <ul>
+                        <a href="/"><img src="images/vk.png" alt=""></a>
+                        <a href="/"><img src="images/telegram.png" alt=""></a>
+                        <a href="/"><img src="images/insta.png" alt=""></a>
+                        <a href="/"><img src="images/phone.png" alt=""></a>
+                </ul>
+            </div>
+        </div>
+    </footer>
+</body>
